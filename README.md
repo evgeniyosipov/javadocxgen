@@ -1,4 +1,7 @@
-A console java application that generates table with predetermined parameters and save it into docx file. 
+JavaDocxGen
+=
+
+A console java application that generates table with predetermined parameters and save it into docx file.
 NetBeans project.
 
 java -jar "javadocxgen.jar" r c text saveall
